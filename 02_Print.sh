@@ -18,6 +18,6 @@ echo -e "\e[36mHello in Cyan Color\e[0m"
 
 echo Diksha
 
-echo -e "\e[31mDiksha in Red color\e]0m"
-echo -e "\e[32mDiksha in green color\e]0m"
-echo -e "\e[33mDiksha in yellow color\e]0m"
+echo -e "\e[31mDiksha in Red color\e[0m"
+echo -e "\e[32mDiksha in green color\e[0m"
+echo -e "\e[33mDiksha in yellow color\e[0m"
