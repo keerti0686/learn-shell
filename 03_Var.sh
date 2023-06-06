@@ -12,3 +12,11 @@ echo Script Name - $0
 echo First Argument - $1
 #echo All Arguments - $*
 #echo No of Arguments - $#
+
+b=4
+
+echo Value of b is $b rupees
+echo Value of b is ${b}rupees
+echo script name - $0
+echo first argument - $1
+
