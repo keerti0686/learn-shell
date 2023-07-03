@@ -3,7 +3,6 @@ sample() {
   return 1
   echo Bye
 }
-
 sample
 echo Function Exit status - $?
 
